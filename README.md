@@ -1,2 +1,2 @@
-# iOS-Projects
-Curation of iOS portfolio apps
+# FinanceApp
+FinanceApp with SwiftUI
