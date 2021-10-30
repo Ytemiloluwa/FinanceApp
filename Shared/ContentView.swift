@@ -1,16 +1,15 @@
 //
 //  ContentView.swift
-//  Shared
+//  ContentView
 //
-//  Created by Temi on 28/09/2021.
+//  Created by Temi on 06/10/2021.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        TabBar()
     }
 }
 
